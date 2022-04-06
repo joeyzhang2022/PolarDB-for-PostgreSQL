@@ -1,0 +1,1 @@
+const a={key:"v-81b5da94",path:"/guide/deploy-on-polardb-stack.html",title:"Deploy on PolarDB Stack",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641825312e3,contributors:[{name:"\u5317\u4FA0",email:"zunbao.fengzb@alibaba-inc.com",commits:1}]},filePathRelative:"guide/deploy-on-polardb-stack.md"};export{a as data};

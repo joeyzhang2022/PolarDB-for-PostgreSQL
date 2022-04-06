@@ -1,0 +1,1 @@
+const e={key:"v-2124d610",path:"/guide/deploy-on-cloud.html",title:"Deploy on Alibaba Cloud Service",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641825312e3,contributors:[{name:"\u5317\u4FA0",email:"zunbao.fengzb@alibaba-inc.com",commits:1}]},filePathRelative:"guide/deploy-on-cloud.md"};export{e as data};
